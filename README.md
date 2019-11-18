@@ -2,7 +2,7 @@
 
 ## Description
 
-Online Profile created using ReactJS, Emotion, and React Bootsrap Framework with responsiveness to each screen sizes.
+Online Profile built using ReactJS, Emotion, and React Bootsrap Framework with responsiveness to each screen sizes.
 
 ## Table of Contents
 
