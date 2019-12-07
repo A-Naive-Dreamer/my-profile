@@ -60,6 +60,7 @@ export default function AboutMe(props) {
                     textAlign: 'center'
                 },
                 '& .bio': {
+                    fontSize: '1.5em',
                     fontWeight: 900,
                     fontFamily: 'Sriracha'
                 },
@@ -150,7 +151,7 @@ export default function AboutMe(props) {
                         fontSize: '1em'
                     },
                     '& .bio-details': {
-                        fontSize: '0.75em'
+                        fontSize: '1.25em'
                     }
                 }
             }}

@@ -59,8 +59,9 @@ export default function Header(props) {
                         fluid={true}
                         className="font-italic"
                         css={{
-                            backgroundColor: 'rgba(175, 175, 175, 0.8)',
+                            backgroundColor: 'rgba(100, 100, 100, 0.8)',
                             borderRadius: '20px',
+                            fontSize: '1.5em',
                             '&:hover': {
                                 cursor: 'pointer',
                                 backgroundColor: 'rgba(175, 175, 175, 1.0)'
